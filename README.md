@@ -1,6 +1,6 @@
-Comparative Study of Countries: Tableau Course End Project
-By 
-Nikhil Sharma
+# Comparative Study of Countries: Tableau Course End Project
+## By 
+## Nikhil Sharma
 
 Step 1: Begin by launching Tableau 2022.2 (or any available version).
 
